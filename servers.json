@@ -1,0 +1,11 @@
+{
+	"servers": [
+	  	{
+			"name": "Vasar",
+			"icon": "https://images-ext-1.discordapp.net/external/AXcHlto4KRmh-5TJ3ulDAZ50RtubsVbRfYfC0E4sRsY/%3Fsize%3D4096/https/cdn.discordapp.com/icons/951979551850905650/fae7958ab2976ec5a07b89835761c4ba.png",
+			"discord": "https://discord.gg/pyDGhN6Fk3",
+			"ip": "vasar.land",
+          		"port": "19132"
+	  	}
+	]
+}
