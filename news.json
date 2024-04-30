@@ -4,7 +4,7 @@
 		"Title": "Hive Helper Mod Release",
 			"Body": "You asked and we delivered! 
 Lyra Client is now supporting the latest version of Minecraft: Bedrock Edition 1.20.80+
-{'Height':180,'Width':320,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/lyrahivehelperrelease.png'}
+{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/lyrahivehelperrelease.png'}
 Introducing the Hive Helper module, enhance your gaming experience on The Hive
 A fair and an amazing module with a variety of asked for features! Let us know what you think.
 
@@ -13,6 +13,12 @@ Also, join the giveaway(s) in our discord's events channel for a chance to win P
 			"Date": "April 30th"
 	    },
              { 
+		     "Title": "Lyra Partners",
+		     "Body" : "{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/partners.png'}",
+		     "Author":"hqncholiny",
+		     "Date": "April 30th"
+		},
+	    { 
 		     "Title": "Beta Release",
 		     "Body" : "{'Height':50,'Width':50,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/logo.png'}
 Lyra Client is now available to a select group of users. Utilize in its extensive range of features and captivating user interface. If you encounter any issues, please don’t hesitate to report them on our Discord server. Additionally, feel free to share any suggestions for improvement. We value your feedback!",
