@@ -1,6 +1,12 @@
 {
     "News": [
 	    {
+		"Title": "Translators",
+			"Body": "French: Mainzz",
+			"Author": "happenedagain",
+			"Date": "May 11th"
+	    },
+	    {
 		"Title": "Hive Helper Mod Release",
 			"Body": "You asked and we delivered! 
 Lyra Client is now supporting the latest version of Minecraft: Bedrock Edition 1.20.80+
