@@ -8,71 +8,40 @@
 		    "Thumbnail": "https://images-ext-1.discordapp.net/external/L-1F5etXP12wOMVKQ41snnYhCdpYOvo6c1mPP05ekbc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1263086445891944591/b816519f6db6407ab41f1a93fc3f015c.png"
 	    },
 	    {
-		"Title": "Translators",
-			"Body": "French: Mainzz
-Portuguese (Brazil): Jotta-v
-Spanish: huncho",
-			"Author": "happenedagain",
-			"Date": "May 11th"
+		    "Title": "Translators",
+		    "Body": "French: Mainzz&#10;Portuguese (Brazil): Jotta-v&#10;Spanish: huncho",
+		    "Author": "happenedagain",
+		    "Date": "May 11th"
 	    },
 	    {
-		"Title": "Hive Helper Mod Release",
-			"Body": "You asked and we delivered! 
-Lyra Client is now supporting the latest version of Minecraft: Bedrock Edition 1.20.80+
-{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/lyrahivehelperrelease.png'}
-Introducing the Hive Helper module, enhance your gaming experience on The Hive
-A fair and an amazing module with a variety of asked for features! Let us know what you think.
-
-Also, join the giveaway(s) in our discord's events channel for a chance to win Plus Rank as well as Discord Nitro.",
-			"Author": "hqncholiny",
-			"Date": "April 30th"
+		    "Title": "Hive Helper Mod Release",
+		    "Body": "You asked and we delivered!&#10;Lyra Client is now supporting the latest version of Minecraft: Bedrock Edition 1.20.80+&#10;{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/lyrahivehelperrelease.png'}&#10;Introducing the Hive Helper module, enhance your gaming experience on The Hive&#10;A fair and an amazing module with a variety of asked for features! Let us know what you think.&#10;&#10;Also, join the giveaway(s) in our discord's events channel for a chance to win Plus Rank as well as Discord Nitro.",
+		    "Author": "hqncholiny",
+		    "Date": "April 30th"
 	    },
-             { 
-		     "Title": "Lyra Partners",
-		     "Body" : "{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/partners.png'}",
-		     "Author":"hqncholiny",
-		     "Date": "April 30th"
-		},
 	    { 
-		     "Title": "Beta Release",
-		     "Body" : "{'Height':50,'Width':50,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/logo.png'}
-Lyra Client is now available to a select group of users. Utilize in its extensive range of features and captivating user interface. If you encounter any issues, please don’t hesitate to report them on our Discord server. Additionally, feel free to share any suggestions for improvement. We value your feedback!",
-		     "Author":"happenedagain",
-		     "Date": "April 3rd"
-		},
-		{
-            "Title": "Developers",
-            "Body": "Lyra Client developers:
-• oAnshul
-• carlton
-• ASM
-• harvs
-• Ice Bear
-• Optic
-• Harvs
-• FreezeEngine
-• ttf
-• Withor2301
-• TebexStore
-
-Website developed by Ice Bear
-
-Server developed by warranting
-
-Discord bot developed by Aarush
-
-Lyra Launcher developed by happenedagain, some code was taken and modified from the following repositories:
-https://github.com/flarialmc/launcher
-https://github.com/HorionContinued/Injector/blob/master/HorionInjector/Injector.cs",
-            "Author": "happenedagain",
-            "Date": "April 3rd"
-        },
-	  	{
-	  		"Title": "Discord",
-			"Body": "Join our discord https://discord.gg/lyraclient",
-			"Author": "hqncholiny",
-			"Date": "April 3rd"
-	  	}
-	
-	]
+		    "Title": "Lyra Partners",
+		    "Body" : "{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/partners.png'}",
+		    "Author":"hqncholiny",
+		    "Date": "April 30th"
+	    },
+	    { 
+		    "Title": "Beta Release",
+		    "Body" : "{'Height':50,'Width':50,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.Testing/main/logo.png'}&#10;Lyra Client is now available to a select group of users. Utilize in its extensive range of features and captivating user interface. If you encounter any issues, please don’t hesitate to report them on our Discord server. Additionally, feel free to share any suggestions for improvement. We value your feedback!",
+		    "Author":"happenedagain",
+		    "Date": "April 3rd"
+	    },
+	    {
+		    "Title": "Developers",
+		    "Body": "Lyra Client developers:&#10;• oAnshul&#10;• carlton&#10;• ASM&#10;• harvs&#10;• Ice Bear&#10;• Optic&#10;• Harvs&#10;• FreezeEngine&#10;• ttf&#10;• Withor2301&#10;• TebexStore&#10;&#10;Website developed by Ice Bear&#10;&#10;Server developed by warranting&#10;&#10;Discord bot developed by Aarush&#10;&#10;Lyra Launcher developed by happenedagain, some code was taken and modified from the following repositories:&#10;https://github.com/flarialmc/launcher&#10;https://github.com/HorionContinued/Injector/blob/master/HorionInjector/Injector.cs",
+		    "Author": "happenedagain",
+		    "Date": "April 3rd"
+	    },
+	    {
+		    "Title": "Discord",
+		    "Body": "Join our discord https://discord.gg/lyraclient",
+		    "Author": "hqncholiny",
+		    "Date": "April 3rd"
+	    }
+    ]
 }
