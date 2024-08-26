@@ -1,23 +1,30 @@
 {
-    "News": [
-	    {
-		    "Title": "Test",
-		    "Body": "Hello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello World",
-		    "Author": "happenedagain",
-		    "Date": "Today",
-		    "Thumbnail": "https://images-ext-1.discordapp.net/external/L-1F5etXP12wOMVKQ41snnYhCdpYOvo6c1mPP05ekbc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1263086445891944591/b816519f6db6407ab41f1a93fc3f015c.png"
-	    },
-	    {
-		    "Title": "Translators",
-		    "Body": "French: Mainzz\nPortuguese (Brazil): Jotta-v\nSpanish: huncho",
-		    "Author": "happenedagain",
-		    "Date": "May 11th"
-	    },
-	    {
-		    "Title": "Hive Helper Mod Release",
-		    "Body": "You asked and we delivered!\nLyra Client is now supporting the latest version of Minecraft: Bedrock Edition 1.20.80+\n{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/lyrahivehelperrelease.png'}\nIntroducing the Hive Helper module, enhance your gaming experience on The Hive\nA fair and an amazing module with a variety of asked for features! Let us know what you think.\n\nAlso, join the giveaway(s) in our discord's events channel for a chance to win Plus Rank as well as Discord Nitro.",
-		    "Author": "hqncholiny",
-		    "Date": "April 30th"
-	    }
-    ]
+  "News": [
+    {
+      "Title": "Test",
+      "Body": "Hello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello WorldHello World",
+      "Author": "happenedagain",
+      "Date": "Today",
+      "Thumbnail": "https://images-ext-1.discordapp.net/external/L-1F5etXP12wOMVKQ41snnYhCdpYOvo6c1mPP05ekbc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1263086445891944591/b816519f6db6407ab41f1a93fc3f015c.png"
+    },
+    {
+      "Title": "Translators",
+      "Body": "French: Mainzz\nPortuguese (Brazil): Jotta-v\nSpanish: huncho",
+      "Author": "happenedagain",
+      "Date": "May 11th"
+    },
+    {
+      "Title": "Hive Helper Mod Release",
+      "Body": "You asked and we delivered!\nLyra Client is now supporting the latest version of Minecraft: Bedrock Edition 1.20.80+\n{'Height':169,'Width':300,'URL':'https://raw.githubusercontent.com/megahendick/Lyra.Launcher.CDN/main/lyrahivehelperrelease.png'}\nIntroducing the Hive Helper module, enhance your gaming experience on The Hive\nA fair and an amazing module with a variety of asked for features! Let us know what you think.\n\nAlso, join the giveaway(s) in our discord's events channel for a chance to win Plus Rank as well as Discord Nitro.",
+      "Author": "hqncholiny",
+      "Date": "April 30th"
+    },
+    {
+      "title": "Test Article",
+      "body": "This is a body",
+      "imgURL": "ergme",
+      "author": "Axel",
+      "date": "Aprl 13th"
+    }
+  ]
 }
