@@ -5,5 +5,12 @@
     "imgURL": "j",
     "author": "h",
     "date": "hj"
+  },
+  {
+    "title": "Article 2",
+    "body": "this all for testing",
+    "imgURL": "lol",
+    "author": "2",
+    "date": "d"
   }
 ]
