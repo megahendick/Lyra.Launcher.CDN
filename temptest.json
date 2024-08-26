@@ -25,6 +25,12 @@
       "imgURL": "ergme",
       "author": "Axel",
       "date": "Aprl 13th"
+    },
+    {
+      "Title": "This is another article with link test",
+      "Body": "{'Height':169,'Width':300,'URL':'https://th.bing.com/th?id=ORMS.7e7cb03b0fa26abbef9d017d241f7292&pid=Wdp&w=612&h=328&qlt=90&c=1&rs=1&dpr=1&p=0'} Hello\\nIam\\ncool",
+      "Author": "Axelnautic",
+      "Date": "April 13th"
     }
   ]
 }
