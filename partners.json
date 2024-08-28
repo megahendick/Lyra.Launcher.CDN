@@ -1,0 +1,30 @@
+{
+   "Partners":[
+      {
+         "Title":"Minecraft Server 1",
+         "Description":"This is the description for the minecraft server",
+         "BackgroundUrl":"https://wallpapers-clan.com/wp-content/uploads/2023/11/cool-minecraft-pixel-desktop-wallpaper-preview.jpg",
+         "Buttons":[
+            {
+               "Text":"Hello World",
+               "Uri":"Calculator:///"
+            }
+         ]
+      },
+      {
+         "Title":"Minecraft Server 2",
+         "Description":"This is another description for the second minecraft server",
+         "BackgroundUrl":"https://i.redd.it/mdvmefeejg331.jpg",
+         "Buttons":[
+            {
+               "Text":"Hello World",
+               "Uri":"https://discord.com"
+            },
+            {
+               "Text":"Hi World",
+               "Uri":"https://google.com"
+            }
+         ]
+      }
+   ]
+}
